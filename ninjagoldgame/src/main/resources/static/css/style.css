@@ -1,0 +1,36 @@
+*{
+    font-family: 'Indie Flower', cursive;
+}
+.container {
+   margin-top: 2%;
+  }
+
+form{
+    border: 2px solid black;
+    height: 250px;
+    width: 250px;
+    margin:auto;
+     
+}
+
+.header{
+    margin: 20px auto;
+    font-size: 25px;
+}
+button{
+    padding: auto 15px;
+    border: 1px solid;
+    box-shadow: 10px 3px black;
+}
+
+.red{
+	
+	color:red;
+}
+
+.green{
+	
+	color:green;
+}
+
+
